@@ -1,0 +1,8 @@
+ChocoboRojo 0: 00000000
+ChocoboRojo 1: 72080df5
+ChocoboRojo 2: 2a2927c9
+ChocoboAzul 0: d202ef8d
+ChocoboAzul 1: 78daa13d
+ChocoboAzul 2: 24c31377
+ChocoboAzul 3: 2f36d283
+ChocoboAzul 4: b5670765
